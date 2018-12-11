@@ -1,4 +1,11 @@
-﻿/**
+﻿'use strict';
+
+//import BlockChain from "./BlockChain.js";
+const BlockChain = require("./BlockChain.js");
+const Song = require("./Song.js");
+const Transaction = require("./Transaction.js");
+
+/**
  * This code is for testing the block Chain
  * */
 //Create a BlockChain

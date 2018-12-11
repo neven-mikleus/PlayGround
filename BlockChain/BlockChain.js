@@ -1,4 +1,6 @@
 ﻿
+const Block = require("./Block.js");
+
     /**
  * Represents a Block chain
  * This is the main BlockChain class
@@ -71,3 +73,5 @@ class BlockChain {
     }
 
 }
+
+module.exports = BlockChain;
