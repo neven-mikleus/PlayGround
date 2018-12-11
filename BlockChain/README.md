@@ -9,8 +9,8 @@ Its written in Javascript
 Node.JS
 
 ### Install steps:
-1. copy all file into one folder
-2. run node install
+1. copy all files from BlockChain folder into one folder
+2. run npm install
 3. run Node.exe RunAndTestBlockChain.js
 
 that's it!
